@@ -1,0 +1,6 @@
+.DS_Store
+
+.netlify
+
+!dist/.keep
+!functions/.keep
